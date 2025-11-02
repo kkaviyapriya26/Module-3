@@ -21,10 +21,20 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ---
 
 ### PROGRAM
-
 ```
+# Reg No-212223060120
+Name - Kaviya priya K
+
+def string_length(s):
+    print(f"The length of the string '{s}' is {len(s)}")
+
+# Example usage
+string = input()
+string_length(string)
 ```
 
 ### OUTPUT
+<img width="1172" height="312" alt="image" src="https://github.com/user-attachments/assets/1fc712d7-1f98-458c-8d5e-d776bc3c7c27" />
 
 ### RESULT
+Thus a python program to find the length of the given string has been successfully implemneted.
