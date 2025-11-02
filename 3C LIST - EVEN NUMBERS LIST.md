@@ -39,6 +39,3 @@ print("Product= {}".format(sum))
 ### RESULT
 Thus a python program to display the product of all the values which are ending with 2 from a list has been successfully implemented.
 
-### OUTPUT
-
-### RESULT
